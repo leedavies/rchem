@@ -3,9 +3,11 @@ Type: Package
 Title: Chemistry tools for R
 Version: 0.0.1
 Author: Lee Davies
-Maintainer: lee.davies@outlook.com 
+Maintainer: Lee Davies <lee.davies@outlook.com> 
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: Apache License Version 2.0
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat
